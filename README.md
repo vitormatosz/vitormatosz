@@ -16,6 +16,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)" alt="javas logo"  />
+  <img width="12" />
 </div>
 
 ###
