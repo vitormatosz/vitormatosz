@@ -9,8 +9,6 @@
 
 ###
 
-<h2 align="left">Eu Programo com:</h2>
-
 <div align="left">
   
  <h3 align="left">Linguagens e Técnologias:</h3>
