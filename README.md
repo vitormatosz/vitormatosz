@@ -1,11 +1,13 @@
 ## Olá, Me chamo Vitor Matos! 👋
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Estudante de Desenvolvimento de Sistemas pela ETEC Zona Leste, como foco em desenvolver aplicações e interfaces funcionais, seguras e modernas.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">Principais Projetos</h2>
+<p align="left"><b>Biblioteca: </b>Sistema de biblioteca em Java desenvolvido com foco em Programação Orientada a Objetos. Foco em controle e cadastro de usuários e livros.</p>
+<p align="left"><b>Biblioteca: </b>Sistema de biblioteca em Java desenvolvido com foco em Programação Orientada a Objetos. Foco em controle e cadastro de usuários e livros.</p>
 
 ###
 
