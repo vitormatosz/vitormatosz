@@ -9,7 +9,6 @@
 <p align="left"><b>Biblioteca: </b>Sistema de biblioteca em Java desenvolvido com foco em Programação Orientada a Objetos. Foco em controle e cadastro de usuários e livros.</p>
 <p align="left"><b>Calculadora Web: </b>Calculadora web desenvolvida com HTML, CSS e JavaScript. O projeto permite realizar operações matemáticas básicas e funcionalidades como limpar, apagar e porcentagem.</p>
 <p align="left"><b>Linux: </b>Site informativo sobre Linux, detalha todo o desenvolvimento e a história do Sistema Operacional, desenvolvido com HTML e CSS.</p>
-###
 
 <div align="left">
   
