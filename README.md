@@ -12,7 +12,7 @@
 
 <div align="left">
   
- <h3 align="left">Linguagens e Técnologias:</h3>
+ <h2 align="left">Linguagens e Técnologias:</h2>
 <h6 align="left"> 
   </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,6 +35,14 @@
       <img width="12"/>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   </h6>
+</div>
+
+<div>
+<h3>Contato:</h3><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-matos-612b83348/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorqsmatos@gmail.com)
+  
 </div>
 
 ###
