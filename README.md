@@ -6,14 +6,14 @@ Estudante de Desenvolvimento de Sistemas pela ETEC Zona Leste, com foco em desen
 
 ---
 
-<h2 align="left">🚀 Principais Projetos:</h2>
+<h2 align="left">Principais Projetos:</h2>
 
 <p align="left">
 <b>📚 Biblioteca:</b> Sistema de biblioteca em Java com foco em Programação Orientada a Objetos. Controle e cadastro de usuários e livros.
 </p>
 
 <p align="left">
-<b>🧮 Calculadora Web:</b> Desenvolvida com HTML, CSS e JavaScript. Realiza operações matemáticas básicas, limpar, apagar e porcentagem.
+<b>🧮 Calculadora Web:</b> Desenvolvida com HTML, CSS e JavaScript. Realiza operações matemáticas básicas como, limpar, apagar e porcentagem.
 </p>
 
 <p align="left">
