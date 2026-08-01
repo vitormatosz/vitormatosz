@@ -16,9 +16,7 @@ Estudante de Desenvolvimento de Sistemas pela ETEC Zona Leste, com foco em desen
 <b>🧮 Calculadora Web:</b> Desenvolvida com HTML, CSS e JavaScript. Realiza operações matemáticas básicas como, limpar, apagar e porcentagem.
 </p>
 
-<p align="left">
-<b>🐧 Linux:</b> Site informativo sobre Linux, abordando desenvolvimento e história do sistema operacional.
-</p>
+<p align="left"> <b>🚚 JavaLog Express:</b> Sistema de gerenciamento de frota desenvolvido em Java com foco em Programação Orientada a Objetos. Permite cadastrar vans e caminhões e simular o cálculo de fretes de acordo com as características de cada veículo. </p>
 
 ---
 
