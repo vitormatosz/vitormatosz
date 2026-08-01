@@ -52,7 +52,7 @@ Estudante de Desenvolvimento de Sistemas pela ETEC Zona Leste, com foco em desen
 <h2 align="left">📫 Contato:</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vitormatosqueiroz/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitormatosqueiroz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vitorqsmatos@gmail.com">
