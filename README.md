@@ -8,7 +8,7 @@ Estudante de Desenvolvimento de Sistemas pela ETEC Zona Leste, com foco em desen
 
 <h2 align="left">Principais Projetos:</h2>
 
-p align="left">
+<p align="left">
 <b>💰 MyPocket:</b> Sistema de gestão financeira desenvolvido em PHP com foco em Programação Orientada a Objetos para a disciplina de Programação Web II. Permite cadastrar receitas e despesas, controlar o saldo da carteira, visualizar o extrato financeiro e filtrar transações, utilizando sessões para persistência de dados e interface responsiva com Bootstrap 5.
 </p>
 
